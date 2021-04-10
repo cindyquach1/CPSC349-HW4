@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+firebasedatastore.js
+storage.rules
+package-lock.json
+paymentform.html
+remoteconfig.template.json
+database.rules.json
+firebase.json
+firestore.indexes.json
+firestore.rules
